@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "F10-IEEE-IF_lib_fp")(type "KiCad")(uri "${KIPRJMOD}/F10-IEEE-IF_lib_fp.pretty")(options "")(descr ""))
+)
